@@ -1,0 +1,7 @@
+1.先获取a元素节点下的href属性节点的属性值
+2.通过IDplaceholder属性节点找到placeholder对应对象
+3.改变placeholder对象的src属性节点的属性值
+
+5.获取a元素节点下的title属性节点的属性值
+6.通过IDdescription属性节点找到description对应对象
+7改变description对应对象的文本内容既是子节点内容(nodeValue)
